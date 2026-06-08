@@ -1,7 +1,5 @@
 # Conflict-Aware Decoding
 
-This project benchmarks multiple **knowledge-conflict-aware decoding methods** (Greedy, CAD, AdaCAD, COIECD, CoCoA, and our proposed ARR) under a unified inference and evaluation framework.
-
 ## Environment
 
 ```bash
