@@ -1,10 +1,10 @@
 # From Context-Aware to Conflict-Aware: Generalizing Contrastive Decoding for Knowledge Conflict in LLMs
 
-## Environment
+## Setup
 
 ```bash
-conda create -n conflict python==3.10 -y
-conda activate conflict
+conda create -n conflict_aware python==3.10 -y
+conda activate conflict_aware
 pip install -r requirements.txt
 ```
 
