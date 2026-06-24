@@ -1,4 +1,4 @@
-# Conflict-Aware Decoding
+# From Context-Aware to Conflict-Aware: Generalizing Contrastive Decoding for Knowledge Conflict in LLMs
 
 ## Environment
 
