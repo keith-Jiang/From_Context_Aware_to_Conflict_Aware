@@ -185,7 +185,6 @@ QA metrics:
 | Metric | Description |
 |--------|-------------|
 | `em` | Exact Match (SQuAD-style normalization) |
-| `em_test` | EM (preserving punctuation) |
 | `substring_em` | Gold answer is a substring of the prediction |
 | `f1` | Token-level F1 score |
 
